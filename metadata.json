@@ -1,0 +1,8 @@
+{
+  "name": "Aulão ENEM - Produção de Videoaulas",
+  "description": "Plataforma interativa e repositório de videoaulas por áreas do conhecimento BNCC para o ENEM com gestão de acessos e sincronização com Google Drive / Planilha.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
